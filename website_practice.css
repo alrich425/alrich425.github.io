@@ -36,8 +36,6 @@ img {
 }
 
 
-
-
 .column-left {
 	width: 30%;
 	float: left;
@@ -54,6 +52,12 @@ img {
 p {
 	float: center;
 	text-align: bottom;
+}
+
+.subheader {
+	font: 30px;
+	text-align: right;
+
 }
 
 .square {
