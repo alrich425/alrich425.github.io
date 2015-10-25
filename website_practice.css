@@ -55,14 +55,14 @@ p {
 }
 
 .subheader {
-	font: 30px;
+	font-size: 15px;
 	text-align: right;
-
 }
+
 
 .square {
 background-size: 50px;
-font: 30px;
+font-size: 30px;
 color: #CCFFFF;
 width: 30%;
 }
