@@ -12,7 +12,9 @@ body {
 	background-size: 20px;
 	border-spacing: 20px;
 }
-
+video {
+	float: center;
+}
 .nav {
 	text-align: center;
 	font-family: Papyrus;
