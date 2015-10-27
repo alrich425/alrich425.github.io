@@ -24,13 +24,23 @@ body {
 
 .column-left {
 	float: left;
+	width: 30%;
 }
 
 .column-right {
 	float: right;
+	width: 30%;
 }
 
 .column-center {
-qfloat: 
+	display: inline-block;
 }
 
+button {
+		width: 60px;
+		height: 60px;
+		border: 3px solid #FF00FF;
+		border-radius: 30%;
+		display: inline-block;
+		font-size: 15px;
+}
