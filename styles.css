@@ -1,5 +1,5 @@
 body {
-	background:-webkit-linear-gradient(180deg,#00CCCC, #CCFFFF);
+	background-color: green;
 	margin: 0 auto;
 	font-style: Papyrus;
 }
@@ -7,10 +7,17 @@ body {
 .logo {
 	 
 	font-size: 50px;
+	font-style: Arial;
 	text-align: center;
-	background-color: #E8E8E8;
-	background-size: 20px;
-	border-spacing: 20px;
+	text-indent: left;
+	background-color: #CCFFCC;
+	background-width: 20px;
+	border-spacing: 30px;
+}
+
+.icons {
+	float: right;
+	padding-right: 1%;
 }
 
 .nav {
@@ -22,25 +29,28 @@ body {
 	letter-spacing: 0px; 
 }
 
+.container-images {
+	padding-top: 5%;
+	padding-right: 15%;
+}
 .column-left {
 	float: left;
-	width: 30%;
 }
 
 .column-right {
 	float: right;
-	width: 30%;
 }
 
 .column-center {
-	display: inline-block;
+	display: right;
 }
 
 button {
-		width: 60px;
-		height: 60px;
-		border: 3px solid #FF00FF;
-		border-radius: 30%;
+		width: 100px;
+		font-size: 8px;
+		height: 30px;
+		border: 3px solid white;
+		border-radius: 20%;
 		display: inline-block;
 		font-size: 15px;
 }
