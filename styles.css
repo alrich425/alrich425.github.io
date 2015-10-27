@@ -54,3 +54,7 @@ button {
 		display: inline-block;
 		font-size: 15px;
 }
+
+audio {
+	padding-left: 40%;
+}
