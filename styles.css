@@ -1,18 +1,32 @@
+* {
+	font-style: Arimo; 
+}
+
 body {
-	background-color: green;
-	margin: 0 auto;
+	background-color: #99FFCC;
+	margin: 0;
 	font-style: Papyrus;
 }
 
+h2 {
+	font-size: 24px;
+	text-align: center;
+	font-style: Papyrus;
+}
 .logo {
 	 
 	font-size: 50px;
-	font-style: Arial;
+	font-style: Josefin+Sans;
 	text-align: center;
 	text-indent: left;
-	background-color: #CCFFCC;
-	background-width: 20px;
-	border-spacing: 30px;
+	border-spacing: 40%;
+	margin: 0;
+	padding-left: 20%;
+}
+
+.container {
+	height: 100px;
+	background-color: white;
 }
 
 .icons {
@@ -25,8 +39,8 @@ body {
 	font-family: Papyrus;
 	font-size: 25px;
 	word-spacing: 10px;
-	line-height: 15px; 
 	letter-spacing: 0px; 
+
 }
 
 .container-images {
