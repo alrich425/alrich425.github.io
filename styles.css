@@ -1,22 +1,22 @@
 * {
-	font-style: Arimo; 
+	font-style: Raleway; 
 }
 
 body {
 	background-color: #99FFCC;
 	margin: 0;
-	font-style: Papyrus;
+	font-style: Raleway;
 }
 
 h2 {
 	font-size: 24px;
 	text-align: center;
-	font-style: Papyrus;
+	font-style: Raleway;
 }
 .logo {
 	 
 	font-size: 50px;
-	font-style: Josefin+Sans;
+	font-style: Raleway;
 	text-align: center;
 	text-indent: left;
 	border-spacing: 40%;
@@ -36,7 +36,7 @@ h2 {
 
 .nav {
 	text-align: center;
-	font-family: Papyrus;
+	font-family: Raleway;
 	font-size: 25px;
 	word-spacing: 10px;
 	letter-spacing: 0px; 
